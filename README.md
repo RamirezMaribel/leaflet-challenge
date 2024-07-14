@@ -2,7 +2,7 @@
 Module 15 challenge
 
 In the folder:
-1. in the static/js folder is the "app.js" completed homework file
+1. in the static/js folder is the "logic.js" completed homework file
 2. the starter "index.html" file that was provided
 3. in the static/css ffolder is the "style.css" completed homework file
 
